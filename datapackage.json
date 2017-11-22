@@ -1,0 +1,1 @@
+{"name":"insurance","title":"Insurance","description":"Test","licenses":[{"url":"https://creativecommons.org/licenses/by/4.0/","title":"Creative Commons Attribution 4.0"}],"publishers":[{"name":"Myriam","web":""}],"resources":[{"name":"Insurance","mediatype":"text/csv","description":"","path":"data/insurance.csv"}]}
